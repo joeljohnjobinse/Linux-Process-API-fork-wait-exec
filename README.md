@@ -44,7 +44,9 @@ int main() {
 ```
 
 
-##OUTPUT
+### OUTPUT
+![ex2_1](https://github.com/user-attachments/assets/84318b6d-d8ec-42d4-a126-2f3f8f6ef59e)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -67,7 +69,10 @@ int main() {
 ```
 
 
-##OUTPUT
+### OUTPUT
+
+![ex2_1](https://github.com/user-attachments/assets/da9df544-4a98-42a2-b851-5f53a8b20516)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -114,7 +119,8 @@ int main() {
 }
 ```
 
-##OUTPUT
+### OUTPUT
+![ex2_2](https://github.com/user-attachments/assets/1f24ced3-19a6-44a5-a927-c86b5a6a7b11)
 
 
 # RESULT:
